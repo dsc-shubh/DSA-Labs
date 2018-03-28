@@ -1,0 +1,4 @@
+Total time for 10 is 0.141000 ms.
+Total time for 100 is 0.390000 ms.
+Total time for 1000 is 3.757000 ms.
+Total time for 10000 is 6.735000 ms.
