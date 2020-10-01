@@ -11,7 +11,7 @@ Queue newQ(){
 int isEmptyQ(Queue q){
 	Task temp=q->head;
 	if(temp==NULL)
-		return 1;
+		return 1;      //pls add context for beginners too
 	else
 		return 0;
 	}
